@@ -1,11 +1,11 @@
 TTF-to-PNG
 ==========
 
-Create all character's PNG files from a .ttf file.
+A PNG letter generator for icon fonts.
 
 ## What
 
-You can get all characters in a `.ttf` font file as `.png` images. It is useful to obtain icon's `.png` from an icon font.
+You can extract `.png` files of all letters from a `.ttf` font file. It is useful to obtain icon images from an icon font.
 
 ## Installation
 
