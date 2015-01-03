@@ -1,7 +1,7 @@
 TTF-to-PNG
 ==========
 
-Create character's PNG files from a .ttf file.
+Create all character's PNG files from a .ttf file.
 
 ## What
 
