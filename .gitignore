@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# TTF-to-PNG
+images/
+texts/
+
+
+
+
